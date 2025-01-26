@@ -29,4 +29,19 @@ class Solution {
 }
 
 public class Main {
+    public static void main(String[] args) {
+        int[][] mat = {
+                {1, 2, 3},
+                {4, 5, 6},
+                {7, 8, 9}
+        };
+
+        Solution solution = new Solution();
+        int[] result = solution.findDiagonalOrder(mat);
+
+        System.out.println("Diagonal order: ");
+        for (int num : result) {
+            System.out.println(num);
+        }
+    }
 }
