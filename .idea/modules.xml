@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java/java.iml" filepath="$PROJECT_DIR$/java/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopee/shopee.iml" filepath="$PROJECT_DIR$/shopee/shopee.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/swe-exercise.iml" filepath="$PROJECT_DIR$/.idea/swe-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/easy/three_sum/three_sum.iml" filepath="$PROJECT_DIR$/java/easy/three_sum/three_sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/java/easy/two_product/two_product.iml" filepath="$PROJECT_DIR$/java/easy/two_product/two_product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/easy/three_sum/untitled/untitled.iml" filepath="$PROJECT_DIR$/java/easy/three_sum/untitled/untitled.iml" />
     </modules>
   </component>
 </project>
