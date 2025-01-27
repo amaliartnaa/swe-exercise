@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/codewars/codewars.iml" filepath="$PROJECT_DIR$/codewars/codewars.iml" />
       <module fileurl="file://$PROJECT_DIR$/grab/grab.iml" filepath="$PROJECT_DIR$/grab/grab.iml" />
       <module fileurl="file://$PROJECT_DIR$/java/java.iml" filepath="$PROJECT_DIR$/java/java.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/swe-exercise.iml" filepath="$PROJECT_DIR$/.idea/swe-exercise.iml" />
